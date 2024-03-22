@@ -28,10 +28,10 @@
 Select,where,Groupby,orderby,Subquries,joins,limit,aggregation functions,delete,alter,union,date functions(date(),monthname()),substring_index(),isnull()
 
 ### Insights
-* Hamburger is more ordered item(American dish)
-* Chicken Tacos is least ordered item(Mexican dish)
-* Order_id 440,2075,1957,330,2675 generated high income & more food items.
-* 94% of orders were placed after 12 pm
+* Most of the people liked to order an American dish called Hamburger. 
+* Chicken Tacos is a Mexican dish. people showed very low interest in it.
+* Order_id 440,2075,1957,330,2675 generated high income & ordered more food items.
+* 94% of orders were placed in the PM shift.
 * Most of the people like to order Asian. It is the best option for developing more menu items.
 * Feb month has low income when compared to other months.
 * Few Mexican items generate very low income & order count is very low. Because of this, Feb month performance is low.
