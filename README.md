@@ -1,7 +1,7 @@
  # Restaurant Orders Analysis
  
  ### Problem Statement
- A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name, and price. Analyze the data and give valuable insights that cover the below questions and recommendations to improve the sales of low-performance food items in restaurant.
+ A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name, and price. Analyze the data and give valuable insights that cover the below questions and give recommendations to improve the sales of low-performance food items in restaurant.
  
 ### Exploratory Analysis Question
 * What were the least & most ordered items? What categories were they in?
