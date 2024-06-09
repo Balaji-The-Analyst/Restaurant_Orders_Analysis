@@ -11,7 +11,7 @@ A quarter's worth of orders from a fictitious restaurant serving international c
 
 ## I took the following steps to create my analysis
 1. Utilized SQL's `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, and `LIMIT` clauses for data selection, filtering, grouping, sorting, and limiting results, respectively.
-2. Leveraged subqueries to perform advanced analysis, such as identifying high spend orders or evaluating the performance of specific items.
+2. Leveraged `subqueries` to perform advanced analysis, such as identifying high spend orders or evaluating the performance of specific items.
 3. Utilized aggregation functions like `COUNT` and `SUM` to aggregate data for insights into order frequency, income generation, and item performance.
 4. Employed date functions such as `DATE()` and `MONTHNAME()` to extract and analyze temporal patterns, including monthly order trends and identifying low-performance months.
 5. Utilized SQL's `JOIN` operations to combine data from multiple tables, facilitating comprehensive analysis by integrating related information from different sources.
